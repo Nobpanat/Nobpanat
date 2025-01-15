@@ -31,15 +31,4 @@ Hi, I’m Nobpanat (Knight). I’m passionate about developing software to solve
 <br/>
 <br/>
 
----
 
-### 📊 Stats
-
-![Knight's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nobpanat&show_icons=true&theme=gruvbox)
-<a href="https://github.com/Nobpanat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nobpanat&ring=0891b2&theme=radical" /></a>
-
----
-<br/>
-
-
-<div align="left"><a href="https://github.com/Nobpanat" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nobpanat&langs_count=10&locale=en&custom_title=Top%20%Languages&theme=radical" alt="Top Languages" /></a></div>
