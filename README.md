@@ -1,6 +1,6 @@
 # Nobpanat (Knight)
 
-**`Data Engineer`** **`Software Developer`**
+**`Data Engineer`** **`Software Engineer`**
 
 Hi, I’m Nobpanat (Knight). I’m passionate about developing software to solve problems and make life easier. I love learning and growing, and I’m committed to never stop learning.
 
